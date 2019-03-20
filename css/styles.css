@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#thomas-gray-card {
+ background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
